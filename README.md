@@ -8,4 +8,4 @@ Termnial
 - php -S localhost:8080
 
 Routes
-localhost/admin - for admin to show what the user has usages
+- localhost/admin - for admin to show what the user has usages
