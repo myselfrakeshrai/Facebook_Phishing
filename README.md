@@ -6,5 +6,6 @@ Facebook | Instagram
   
 Termnial
 - php -S localhost:8080
-##ROUTES
+
+Routes
 localhost/admin - for admin to show what the user has usages
